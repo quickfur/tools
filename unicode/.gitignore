@@ -1,1 +1,4 @@
 *.txt
+gen_uni_32
+gen_uni_64
+unicode_*.d
